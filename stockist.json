@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -122.46067,
+            37.7831
+        ]
+      },
+      "properties": {
+        "storename": "Foggy Notion",
+        "addressline1": "124 Clement St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipcode": "94118",
+        "country": "United States of America",
+        "website": "http://www.foggy-notion.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -122.632332, 
+            45.504916
+        ]
+      },
+       "properties": {
+        "storename": "She Bop",
+        "longitude": -122.632332,
+        "latitude": 45.504916,
+        "latlon": "-122.632332, \n45.504916",
+        "addresslines": "3213 SE Division St",
+        "citystatezip": "Portland, OR 97202",
+        "country": "United States of America",
+        "website": "https://www.sheboptheshop.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -122.91309, 
+            48.52265
+        ]
+      },
+       "properties": {
+        "storename": "Pachamama Apothecary",
+        "longitude": -122.91309,
+        "latitude": 48.52265,
+        "latlon": "-122.91309, \n48.52265",
+        "addresslines": "135 Lopez Rd",
+        "citystatezip": "Lopez Island, WA 98261",
+        "country": "United States of America",
+        "website": "https://www.pmapothecary.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -122.67639, 
+            45.52383
+        ]
+      },
+       "properties": {
+        "storename": "Hello From Portland",
+        "longitude": -122.67639,
+        "latitude": 45.52383,
+        "latlon": "-122.67639, \n45.52383",
+        "addresslines": "514 NW Couch St",
+        "citystatezip": "Portland, OR 97209",
+        "country": "United States of America",
+        "website": "http://hellofromportland.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -97.7289, 
+            30.26881
+        ]
+      },
+       "properties": {
+       "storename": "Charm School Vintage",
+        "longitude": -97.7289,
+        "latitude": 30.26881,
+        "latlon": "-97.7289, \n30.26881",
+        "addresslines": "1111 E 11TH St #150",
+        "citystatezip": "Austin, TX 78702",
+        "country": "United States of America",
+        "website": "http://charmschoolvintage.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -93.28815, 
+            44.94818
+        ]
+      },
+       "properties": {
+       "storename": "The Smitten Kitten",
+        "longitude": -93.28815,
+        "latitude": 44.94818,
+        "latlon": "-93.28815, \n44.94818",
+        "addresslines": "3010 Lyndale Ave S",
+        "citystatezip": "Minneapolis, MN 55408",
+        "country": "United States of America",
+        "website": "http://www.smittenkittenonline.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -87.66836, 
+            41.97374
+        ]
+      },
+       "properties": {
+       "storename": "Early to Bed",
+        "longitude": -87.66836,
+        "latitude": 41.97374,
+        "latlon": "-87.66836, \n41.97374",
+        "addresslines": "5044 N Clark St",
+        "citystatezip": "Chicago, IL 60640",
+        "country": "United States of America",
+        "website": "https://www.early2bed.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -122.69843, 
+            45.5265
+        ]
+      },
+       "properties": {
+       "storename": "Tender Loving Empire",
+        "longitude": -122.69843,
+        "latitude": 45.5265,
+        "latlon": "-122.69843, \n45.5265",
+        "addresslines": "525 NW 23RD Ave.",
+        "citystatezip": "Portland, OR 97210",
+        "country": "United States of America",
+        "website": "https://tenderlovingempire.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -70.66262, 
+            42.61601
+        ]
+      },
+       "properties": {
+       "storename": "Saltwater Massage",
+        "longitude": -70.66262,
+        "latitude": 42.61601,
+        "latlon": "-70.66262, \n42.61601",
+        "addresslines": "65 Pleasant St",
+        "citystatezip": "Gloucester, MA 01930",
+        "country": "United States of America",
+        "website": "http://www.saltwatermassage.com/"
+      }
+    }
+  ]
+}
