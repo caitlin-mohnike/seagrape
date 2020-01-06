@@ -5,7 +5,7 @@ const axios = require('axios');
 var qs = require('qs');
 
 var hash = require('object-hash');
-var shopify_url = "https://seagrapeapothecary.myshopify.com"
+var shopify_url = "https://seagrape-apothecary-2.myshopify.com"
 
 var shopify_url_with_auth = "https://"
 					+process.env.SHOPIFY_API_KEY
