@@ -11,7 +11,7 @@ var shopify_url_with_auth = "https://"
 					+process.env.SHOPIFY_API_KEY
 					+":"
 					+process.env.SHOPIFY_API_SECRET_KEY
-					+"@seagrapeapothecary.myshopify.com"
+					+"@seagrape-apothecary-2.myshopify.com"
 
 
 /* GET home page. */
@@ -52,7 +52,7 @@ router.post('/create-draft-order', function(req, res, next) {
     var draft_order = data;
     axios({
 	  method: 'post',
-	  url: shopify_url_with_auth+'/admin/api/2019-10/draft_orders.json',
+	  url: shopify_url_with_auth+'/admin/api/2020-01/draft_orders.json',
 	  data: {
 	    draft_order
 	  },
